@@ -1,3 +1,4 @@
 #freeCodeCamp Exercises
 
-My Work From FreeCodeCamp
+ Introduction to Javascript, freeCodeCamp Basic Javascript
+ From FreeCodeCamp
