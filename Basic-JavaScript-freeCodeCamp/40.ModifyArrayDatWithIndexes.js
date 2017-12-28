@@ -7,4 +7,4 @@ var myArray = [1, 2, 3];
 
 // Only change code below this line.
 
-myArray[0] = 3;
+myArray[0] = 3; // myArray now equals [3,2,3].
