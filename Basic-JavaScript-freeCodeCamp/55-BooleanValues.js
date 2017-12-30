@@ -5,3 +5,4 @@ function welcomeToBooleans () {
 
   // Only change code above this line.
 }
+welcomeToBooleans ();
