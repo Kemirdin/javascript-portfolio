@@ -1,1 +1,2 @@
-# javascript-portfolio
+# javascript-Exercises & Portfolios & Hands-on Learning...
+These are all of my portfolios and exercises repositories, I will put all my practice files here.
